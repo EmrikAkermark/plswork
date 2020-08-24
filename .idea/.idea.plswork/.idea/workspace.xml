@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:upstream" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9d2c8396-2ba3-470f-b26f-2d4c7c6e40e1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/_Scripts/Player/Controls.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Scripts/Player/Controls.inputactions" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Scripts/Player/InputSystem.inputsettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Scripts/Player/Materials/mat_blasterProjectile.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Scripts/Player/Materials/mat_exhaust.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Scripts/Player/Materials/mat_wavegunProjectile.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Scripts/Player/Player.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Scripts/Player/Projectiles.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Scripts/Player/Projectiles/BlasterProjectile.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Scripts/Player/Projectiles/BlasterProjectile.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Scripts/Player/Projectiles/Projectile.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Scripts/Player/Projectiles/Projectile.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Scripts/Player/Projectiles/ProjectileManager.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Scripts/Player/Projectiles/ProjectilePrefabs/BlasterPrefab.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Scripts/Player/Projectiles/ProjectilePrefabs/WavegunPrefab.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Scripts/Player/Projectiles/WavegunProjectile.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Scripts/Player/Weapons.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Scripts/Player/Weapons/Weapon.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Scripts/Player/Weapons/Weapon.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Player/Controls.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Player/Projectiles/ProjectileManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Player/Projectiles/BlasterProjectile.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Enemy/EnemyMovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Enemy/Enemy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Player/Player.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Player/Weapons/Weapon.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Player/Projectiles/Projectile.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Player/Projectiles/WavegunProjectile.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Player/PlayerController.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Player/Controls.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Player/TestShit.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Player/CharacterInput.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Player/Commands/Command.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Player/Commands/ShootCommand.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Player/Weapon.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Player/Weapons/Projectiles/ProjectilePrefabs/WaveProjectile.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Player/Weapons/Projectiles/BlasterProjectile.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Player/Weapons/Projectiles/WaveProjectile.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Player/Weapons/DoubleWave.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Player/Weapons/ProjectileManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Player/Weapons/Projectiles/Projectile.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Player/Weapons/Wave.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Player/Weapons/Blaster.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Player/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Player/Projectiles/Projectile.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Player/Weapons/Weapon.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Player/Projectiles/wavegunProjectile.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Player/Projectiles/BlasterProjectile.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Player/Projectiles/ProjectileManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Player/Projectiles/WavegunProjectile.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gT9IZPDGGToLyfzYcG8qCSgC6O" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d2c8396-2ba3-470f-b26f-2d4c7c6e40e1" name="Default Changelist" comment="" />
+      <created>1598127636807</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598127636807</updated>
+      <workItem from="1598127647925" duration="34557000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="514" y="418" key="ANALYSIS_DLG_com.jetbrains.rider.actions.impl.cleanup.ChooseSilentCodeCleanupProfileDialog" timestamp="1598156752277">
+      <screen x="0" y="0" width="2560" height="999" />
+    </state>
+    <state x="514" y="418" key="ANALYSIS_DLG_com.jetbrains.rider.actions.impl.cleanup.ChooseSilentCodeCleanupProfileDialog/0.0.2560.999@0.0.2560.999" timestamp="1598156752277" />
+    <state x="407" y="227" key="RiderGenerateDialog" timestamp="1598143810155">
+      <screen x="0" y="0" width="2560" height="999" />
+    </state>
+    <state x="407" y="227" key="RiderGenerateDialog/0.0.2560.999@0.0.2560.999" timestamp="1598143810155" />
+    <state x="449" y="416" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598185336219">
+      <screen x="0" y="0" width="2560" height="999" />
+    </state>
+    <state x="449" y="416" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.999@0.0.2560.999" timestamp="1598185336219" />
+  </component>
+</project>
