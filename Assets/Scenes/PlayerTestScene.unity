@@ -157,12 +157,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fa144028e0b208b49b589e888e29d64f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxSpeed: 5
-  maxAccel: 6
-  maxDecel: 10
-  boostMultiplier: 3
+  maxSpeed: 4
+  maxAccel: 8
+  maxDecel: 15
+  boostMultiplier: 4
   boostCooldown: 3
-  boostDuration: 1.5
+  boostDuration: 0.5
   weapons:
   - {fileID: 1573618511}
   - {fileID: 1881120704}
